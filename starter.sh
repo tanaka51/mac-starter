@@ -5,7 +5,7 @@ xcode-select --install
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # CLI
-brew insatll \
+brew install \
 git \
 zsh \
 vim \
