@@ -1,5 +1,5 @@
 # mac-starter
-shell scripts for setup mac
+simple shell script for setup mac
 
 ## HOW TO USE
 
