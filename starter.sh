@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ ! -d ~/.ssh ]; then
+  echo 'at the first, prepare ssh keys to access your github account'
+  exit 1
+fi
+
 xcode-select --install
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -31,8 +36,9 @@ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-bu
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 go get github.com/motemen/ghq
 
-# TODO i wanna get config files via the internet
 
+git clone git@github.com:tanaka51/configs.git ~/src/github.com/tanaka51/configs
+~/src/github.com/tanaka51/configs/link.sh
 
 cat <<MSG
 
