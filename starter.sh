@@ -49,4 +49,6 @@ should step followings:
 1. start vim and type ':BundleInstall'
 2. start tmux and type 'prefix-key + I'
 3. set iTerm2 to load preferences from ~/iterm
+4. set capslock to control on Mac
+5. set command to translate ja/en on Karabiner(search with 'japan')
 MSG
