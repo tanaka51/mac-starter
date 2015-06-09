@@ -22,6 +22,7 @@ libffi \
 go \
 peco \
 reattach-to-user-namespace \
+npm \
 
 # GUI (via homebrew-cask)
 brew install caskroom/cask/brew-cask
