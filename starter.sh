@@ -23,6 +23,7 @@ go \
 peco \
 reattach-to-user-namespace \
 npm \
+ag \
 
 # GUI (via homebrew-cask)
 brew install caskroom/cask/brew-cask
