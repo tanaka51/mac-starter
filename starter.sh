@@ -44,8 +44,9 @@ cat <<MSG
 
 ==========
 
-should install plugins for vim and tmux with following steps:
+should step followings:
 
 1. start vim and type ':BundleInstall'
 2. start tmux and type 'prefix-key + I'
+3. set iTerm2 to load preferences from ~/iterm
 MSG
