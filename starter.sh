@@ -32,6 +32,7 @@ brew cask install karabiner
 brew cask install iterm2
 brew cask install google-japanese-ime
 brew cask install dropbox
+brew cask install keepassx
 
 git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
 git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
