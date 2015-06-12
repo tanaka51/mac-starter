@@ -37,6 +37,7 @@ brew cask install keepassx
 brew cask install virtualbox
 brew cask install licecap
 brew cask install vagrant
+brew cask install ngrok
 
 git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
 git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
