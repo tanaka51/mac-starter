@@ -25,6 +25,7 @@ reattach-to-user-namespace \
 npm \
 ag \
 tree \
+ctags \
 
 # GUI (via homebrew-cask)
 brew install caskroom/cask/brew-cask
