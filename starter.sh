@@ -26,6 +26,7 @@ npm \
 ag \
 tree \
 ctags \
+imagemagick \
 
 # GUI (via homebrew-cask)
 brew install caskroom/cask/brew-cask
