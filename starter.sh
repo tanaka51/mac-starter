@@ -40,6 +40,7 @@ brew cask install virtualbox
 brew cask install licecap
 brew cask install vagrant
 brew cask install ngrok
+brew cask install firefox
 
 git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
 git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
