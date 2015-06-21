@@ -27,6 +27,7 @@ ag \
 tree \
 ctags \
 imagemagick \
+heroku-toolbelt \
 
 # GUI (via homebrew-cask)
 brew install caskroom/cask/brew-cask
