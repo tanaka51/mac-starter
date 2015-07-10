@@ -29,6 +29,7 @@ ctags \
 imagemagick \
 heroku-toolbelt \
 rust \
+pwgen \
 
 # GUI (via homebrew-cask)
 brew install caskroom/cask/brew-cask
