@@ -30,6 +30,8 @@ imagemagick \
 heroku-toolbelt \
 rust \
 pwgen \
+gs \
+redis \
 
 # GUI (via homebrew-cask)
 brew install caskroom/cask/brew-cask
